@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main() {
   int INDICE = 13, SOMA = 0, K = 0;
 
