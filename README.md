@@ -1,4 +1,12 @@
 # target_desafio
-Teste Programação Desafio Target - Gupy - Linguagem: C e Phyton
+Teste Programação Desafio Target - Exercício 1 - Linguagem utilizada: C
+Compilador para prova real: GCC
 
-Desafios para a empresa Target, na qual dentro dessas programações que serão feitas, ficarão divididos entre os exercícios solicitados e armazenados no GitHub, e posteriormente será enviado o link do repositório para avaliação da empresa.
+Explicação:
+
+K começa com 0 e é incrementado até 13.
+A cada iteração, o valor de K é somado a SOMA.
+Após o término, o valor de SOMA será a soma de todos os números de 1 a 13, ou seja:
+
+SOMA=1+2+3+⋯+13=91
+Resultado: O valor de SOMA será 91.
