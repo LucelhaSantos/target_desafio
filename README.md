@@ -39,5 +39,19 @@ O programa soma o faturamento de todos os estados e calcula o percentual de cada
 
 ----------------------------------------------------------------------------------------------------
 
+Teste Programação Desafio Target - Exercício 5 -  Linguagem utilizada: Phyton 
+
+A string é invertida iterando sobre cada caractere da original e adicionando-o ao início de uma nova string.
+
+-----------------------------------------------------------------------------------------------------
+
+
+---- Obrigada pela oportunidade.
+Adorei fazer os testes, foi muito bom para o meu aprendizado e desenvolvimento.
+Espero fazer parte da equipe!
+
+Att.
+Lucelha Santos :)
+
 
 
