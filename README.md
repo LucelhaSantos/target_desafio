@@ -1,5 +1,6 @@
 # target_desafio
-Teste Programação Desafio Target - Exercício 1 - Linguagem utilizada: C
+-------------------------------------------------------------------------------------------------
+Teste Programação Desafio Target - Exercício 1 - SOMA - Linguagem utilizada: C
 Compilador para prova real: GCC
 
 pasta exercicio1.c com o teste
@@ -13,3 +14,13 @@ Após o término, o valor de SOMA será a soma de todos os números de 1 a 13, o
 
 SOMA=1+2+3+⋯+13=91
 Resultado: O valor de SOMA será 91.
+
+---------------------------------------------------------------------------------------------------
+
+Teste Programação Desafio Target - Exercício 2 - Sequência de Fibonacci Linguagem utilizada: Phyton
+
+A sequência de Fibonacci é gerada até que o número atual ultrapasse o valor informado.
+Se o número for encontrado na sequência, a função retorna que o número pertence à sequência, caso contrário, indica que não pertence.
+
+---------------------------------------------------------------------------------------------------
+
