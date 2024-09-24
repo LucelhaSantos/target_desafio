@@ -2,6 +2,9 @@
 Teste Programação Desafio Target - Exercício 1 - Linguagem utilizada: C
 Compilador para prova real: GCC
 
+pasta exercicio1.c com o teste
+pasta exercicio1.exe com o compilador executável para o cálculo, utilizando o comando: exercicio
+
 Explicação:
 
 K começa com 0 e é incrementado até 13.
