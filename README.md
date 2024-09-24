@@ -24,3 +24,15 @@ Se o número for encontrado na sequência, a função retorna que o número pert
 
 ---------------------------------------------------------------------------------------------------
 
+Teste Programação Desafio Target - Exercício 3 - Médias diárias de Faturamento de Distribuidora Linguagem utilizada: Phyton e JSON
+
+JSON de faturamento diário: Os dados de faturamento são representados em formato JSON, onde dias sem faturamento (feriados ou finais de semana) são representados com valor 0.0.
+Cálculos: O código calcula:
+O menor e maior valor de faturamento diário.
+A média de faturamento para os dias com valores positivos.
+O número de dias em que o faturamento diário foi superior à média mensal.
+
+---------------------------------------------------------------------------------------------------
+
+
+
