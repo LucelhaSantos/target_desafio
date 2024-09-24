@@ -1,5 +1,5 @@
 def inverter_string(texto):
-    string_invertida = 'Quero a Vaga de Estágio da TARGET'
+    string_invertida = ''
     for char in texto:
         string_invertida = char + string_invertida
     return string_invertida
