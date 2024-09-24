@@ -1,6 +1,5 @@
 import json
 
-# Exemplo de dados de faturamento em JSON
 faturamento_diario = '''{
     "dias": [
         {"dia": 1, "valor": 1000.0},
