@@ -5,5 +5,5 @@ def inverter_string(texto):
     return string_invertida
 
 # Exemplo de uso
-texto = "Exemplo de string"
+texto = "QUERO A VAGA DE ESTAGIO DA TARGET - EU TENHO POTENCIAL - OBRIGADA"
 print(inverter_string(texto))
