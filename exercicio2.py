@@ -7,5 +7,5 @@ def is_fibonacci(num):
     return f"{num} não pertence à sequência de Fibonacci."
 
 # Exemplo de uso
-numero = 21  # Pode ser trocado por outro número ou definido como input
+numero = 3  # Pode ser trocado por outro número ou definido como input
 print(is_fibonacci(numero))
