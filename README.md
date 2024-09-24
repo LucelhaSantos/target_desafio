@@ -33,6 +33,11 @@ A média de faturamento para os dias com valores positivos.
 O número de dias em que o faturamento diário foi superior à média mensal.
 
 ---------------------------------------------------------------------------------------------------
+Teste Programação Desafio Target - Exercício 4 - Percentual de Faturamento por Estado Linguagem utilizada: Phyton 
+
+O programa soma o faturamento de todos os estados e calcula o percentual de cada estado em relação ao total.
+
+----------------------------------------------------------------------------------------------------
 
 
 
